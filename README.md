@@ -3,7 +3,7 @@ Hi, this is machine learning and data science research github. Feel free to join
 
 ### Members  
 - Kwang-myung Yu [[Github]](https://github.com/sguys99)  
-- Denny Hwang [[Github]] (https://github.com/Denny-Hwang)  
+- Denny Hwang [[Github]](https://github.com/Denny-Hwang)  
 
 ### Research interests  
 - Machine learning for algorithmic trading  
